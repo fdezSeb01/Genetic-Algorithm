@@ -1,1 +1,2 @@
 # Genetic-Algorithm
+De c# basándose en una grafica de los niveles de CO2 el programa busca predecir el patron de crecimiento basándose en una formula cosenoidal buscando que factores hacen que el comportamiento sea mas adecuado. Esto lo hace el programa con un algoritmo genético donde cada valor es un cromosoma, el conjunto de los tres valores que conforman la función es un individuo, las poblaciones son conjuntos de 100 individuos.
